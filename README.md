@@ -12,7 +12,7 @@ Semantic error at paths./api/circuits/circuit-terminations/.delete.requestBody
 DELETE operations cannot have a requestBody.
 Jump to line 738
 ```
-Once I can figure out the best way to generate various clients, they will also be included per-version (eg my work requires a csharp client)
+Once I can properly explore the best way to generate various clients, they will also be included per-version (eg job requires a csharp client)
 
 
 Also Note: Please be advised that these API files have additional calls from plugins I have installed on my Netbox host. Overlooked that, so will need to regenerate with a clean host instead.
