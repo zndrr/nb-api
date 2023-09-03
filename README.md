@@ -3,7 +3,7 @@ Netbox API Files
 
 This is basically a dumping ground of Netbox API primarily for personal use in Netbox.
 
-YAML files are generated from v3.5.0, and converted to JSON via [Online YAML Tools](https://onlineyamltools.com/convert-yaml-to-json)
+YAML files are provided natively from v3.5.0 with the API change, which I convert to JSON via [Online YAML Tools](https://onlineyamltools.com/convert-yaml-to-json)
 
 
 With v3.5.0 onward, the [Swagger Editor](https://editor.swagger.io/) complains about requestBody in DELETE actions and won't generate clients.
